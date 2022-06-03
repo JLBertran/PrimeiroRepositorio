@@ -1,6 +1,13 @@
- - Unix 
- - Bash 
- - Git
 
+ 
+ O que eu vou aprender na trybe:
+
+ - Unix
+ - Bash
+ - Git 
+ - HTML 
+ - CSS
  - Python
+ 
+
 
